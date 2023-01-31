@@ -1,0 +1,13 @@
+* {
+    margin: 0%; /* Espaçamento entre os elementos da tela */
+    padding: 0%; /* Espaçamento interno do conteúdo pras bordas do elemento */
+    box-sizing: border-box; /*  Faz com que o navegador não calcule a dimensão de um elemento somando bordas e margens com altura e largura */
+}
+
+ul {
+    list-style: none; /* Estilos da lista, ex "none": sem bolinhas ou numeros na frente da lista */
+}
+
+a {
+    text-decoration: none; /* Estilização do texto, ex "none": Sem decoração de texto */
+}
